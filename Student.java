@@ -1,5 +1,7 @@
 package Main;
+
 public class Student {
+   
 public static void main(String[] args){
     String name="zoya";
     int Birthyear=2005;
@@ -10,3 +12,6 @@ public static void main(String[] args){
     System.out.println("Age:"+age);
 }
 }
+
+    
+
